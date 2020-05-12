@@ -18,6 +18,14 @@ header img {
     border-radius: 100px;
 }
 
+.wrapL {
+	float: left;
+	margin: 50px;
+}
+.imgNext {
+	margin: center;
+}
+
 img.profile {
     width: 400px;
     height: 400px;
